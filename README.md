@@ -1,2 +1,3 @@
 # project-runway
-CS178 Fashion MNIST Project 4
+An Investigation of Classification Methods for Fashion MNIST Dataset
+
